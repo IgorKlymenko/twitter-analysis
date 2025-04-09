@@ -1,0 +1,7 @@
+python-dotenv
+supabase
+requests
+streamlit
+pandas
+rapidfuzz
+spacy
